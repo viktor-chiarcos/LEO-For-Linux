@@ -1,8 +1,9 @@
 # Installation
 
 Um den LEO Übersetzer als App zu Installieren machen sie:
--      git clone https://github.com/viktor-chiarcos/LEO-For-Linux/
-- Dieses Clonen soll Im Home Verzeichnis Stattfinden
+-      git clone https://github.com/viktor-chiarcos/LEO-For-Linux
+-  erstellen sie einen Ordner namens Programms
+- Dieses Clonen soll Im Programms Verzeichnis Stattfinden
 - Sobald sie diesen Ordner haben gehen sie in das Terminal.
 - Bitte öffnen sie das Terminal in dem Verzeichnis Programms:
   -     cd LEO-For-Linux/Programms
